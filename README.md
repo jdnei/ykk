@@ -1,4 +1,4 @@
-# YkkCloud 机场官网地址（2026年6月25日更新）
+# YkkCloud 机场官网地址（2026年7月20日更新）
 官网地址：[panel.ykkk.best](https://panel.ykkk.best/#/register?code=GjlWAMQx)</br>
 ## 简介
 YKKCloud 是一家面向日常上网、流媒体解锁、跨境办公和 AI 工具访问的机场服务商，主打稳定、低延迟和高性价比。平台提供多地区节点，覆盖香港、日本、新加坡、美国、台湾等常用线路，适合网页浏览、视频观看、游戏加速、远程办公以及 ChatGPT、Gemini 等海外服务访问。
