@@ -2,9 +2,9 @@ name: Daily Date Update & Sync to Gitee and GitLab
 
 on:
   schedule:
-    # 每天北京时间上午 8:16 自动运行
-    # GitHub Actions 使用 UTC 时间，所以 0:16 UTC = 北京时间 8:16
-    - cron: '16 0 * * *'
+    # 每天北京时间上午 11:06 自动运行
+    # GitHub Actions 使用 UTC 时间，所以 03:06 UTC = 北京时间 11:06
+    - cron: '6 3 * * *'
   workflow_dispatch: # 支持手动点击运行
 
 jobs:
@@ -18,14 +18,6 @@ jobs:
 
       - name: Update Date and Fix Image Links
         run: |
-            # 你的原来的 sed 命令
-            sed -i -E "s/xxx/xxx/g" README.md
-
-            # 测试内容放这里
-            echo "Current date:"
-            echo $CURRENT_DATE
-            cat README.md | grep 更新
-            
           # 1. 获取北京时间当前日期 (格式：2026年2月12日)
           CURRENT_DATE=$(TZ='Asia/Shanghai' date +'%Y年%-m月%-d日')
           
@@ -39,8 +31,9 @@ jobs:
           
           # 4. 防止重复添加 ?raw=true
           sed -i 's/?raw=true?raw=true/?raw=true/g' README.md
-          
-          
+
+      - name: Commit and Push to GitHub
+        run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
