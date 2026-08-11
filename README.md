@@ -1,5 +1,14 @@
-# YkkCloud 机场官网地址(2026年8月11日更新)
-官网地址：[panel.ykkk.best](https://panel.ykkk.best/#/register?code=GjlWAMQx)</br>
+# YkkCloud 机场官方地址(2026年8月11日更新)
+YkkCloud 机场官网地址
+最新地址：[panel.ykkk.best](https://to.iix.im/ykk01)</br>
+官网地址：[panel.ykkk.best](https://to.iix.im/ykk01)</br>
+
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+
 ## 简介
 YKKCloud 是一家面向日常上网、流媒体解锁、跨境办公和 AI 工具访问的机场服务商，主打稳定、低延迟和高性价比。平台提供多地区节点，覆盖香港、日本、新加坡、美国、台湾等常用线路，适合网页浏览、视频观看、游戏加速、远程办公以及 ChatGPT、Gemini 等海外服务访问。
 ## 邀请码
@@ -9,7 +18,7 @@ GjlWAMQx
 ## 优势
 YKKCloud 的主要优势在于线路选择较丰富，节点地区覆盖常用热门区域，能够满足不同网络环境下的访问需求。部分节点针对流媒体、AI 工具和低延迟访问做了优化，适合需要稳定连接海外服务的用户。<</br>
 平台套餐一般支持多设备使用，方便手机、电脑、平板、路由器同时配置。相比传统 VPS 自建方案，YKKCloud 不需要用户自己搭建和维护服务器，购买套餐后导入订阅即可使用，更适合不想折腾技术配置的用户。</br>
-此外，YKKCloud 通常提供不同档位套餐，用户可以根据自己的流量需求和使用周期选择合适方案。对于轻度用户，可以选择低流量或短周期套餐；对于长期使用、流媒体观看或多设备用户，则可以选择更高流量或长期套餐。</br>
+此外，YKKCloud 通常提供不同档位套餐，用户可以根据自己的流量需求和使用周期选择合适方案。对于轻度用户，可以选择低流量或短周期套餐；对于长期使用、流媒体观看或多设备用户，则可以选择更高流量或长期套餐。并额外`赠送Emby观影权益`</br>
 ## 套餐
 | 套餐 | 库存状态 | 价格 | 套餐流量 | 线路 | 客户端支持 | 使用限制 | 流量重置 | 流媒体权益 | 额外权益 |
 |---|---|---:|---|---|---|---|---|---|---|
