@@ -1,4 +1,4 @@
-# YkkCloud 机场官方地址(2026年9月4日更新)
+# YkkCloud 机场官方地址(2026年9月5日更新)
 YkkCloud 机场官网地址</br>
 最新地址：[panel.ykkk.best](https://to.iix.im/ykk01)</br>
 官网地址：[panel.ykkk.best](https://to.iix.im/ykk01)</br>
