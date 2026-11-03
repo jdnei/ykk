@@ -1,3 +1,6 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
 # YkkCloud 机场官方地址(2026年11月3日更新)
 YkkCloud 机场官网地址</br>
 最新地址：[panel.ykkk.best](https://to.iix.im/ykk01)</br>
