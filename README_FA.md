@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی فیلترشکن YKKCloud (به‌روزرسانی 4 نوامبر 2026)
+# وب‌سایت رسمی فیلترشکن YKKCloud (به‌روزرسانی 5 نوامبر 2026)
 وب‌سایت رسمی فیلترشکن YKKCloud<br>
 جدیدترین آدرس: [panel.ykkk.best](https://to.iix.im/ykk01)<br>
 وب‌سایت رسمی: [panel.ykkk.best](https://to.iix.im/ykk01)<br>
