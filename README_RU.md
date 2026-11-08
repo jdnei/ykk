@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт YKKCloud VPN (обновлено 7 ноября 2026)
+# Официальный сайт YKKCloud VPN (обновлено 8 ноября 2026)
 
 Официальный сайт YKKCloud VPN<br>
 Новый адрес: [panel.ykkk.best](https://to.iix.im/ykk01)<br>
